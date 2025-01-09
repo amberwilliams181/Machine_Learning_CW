@@ -7,7 +7,7 @@ This project uses a dataset of gene expression profiles under treatment (leaf ti
 
 # Code and Resources Used
 This project was developed using Jupyter Notebook, Python 3.12.7.
-Packages: pandas, seaborn, numpy, tensorflow, matplotlib, sklearn, scipy.
+Packages: pandas, seaborn, numpy, matplotlib, sklearn, scipy.
 
 # Data 
 The data for this comes from Thibaud-Nissen et al., Development of Arabidopsis whole-genome microarrays and their application to the discovery of binding sites for the TGA2 transcription factor in salicylic acid-treated plants. Plant J 2006 Jul;47(1):152-62.
